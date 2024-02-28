@@ -1,207 +1,207 @@
 {
-  "tommyGrossiPage": {
-    "coverSection": {
-      "title": "Tommy Grossi",
-      "subtitle": "Traditional tattoo",
-      "link": null,
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
-        "alt": "",
-        "height": "",
-        "width": "",
-        "title": ""
-      }
-    },
-    "biographySection": {
-      "title": null,
-      "image": null,
-      "mediaText": [
-        {
-          "id": 1,
-          "addClass": "",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
-            "alt": "Tommy Grossi mentre lavora",
-            "height": "270",
-            "width": "425",
-            "title": null
-          },
-          "paragraphs": [
-            {
-              "id": 1,
-              "text": "Tommaso Grossi nasce a Venezia nel 1977."
-            },
-            {
-              "id": 2,
-              "text": "Dopo aver conseguito il diploma di maestro d’arte della stampa all’istituto statale d’arte e successivamente di grafico pubblicitario inizia la carriera di tatuatore nel 2013 a Venezia e Tenerife."
-            },
-            {
-              "id": 3,
-              "text": "Da veneziano purosangue predilige soggetti a tema marinaresco in stile tradizionale “old school” con o senza colori."
-            },
-            {
-              "id": 4,
-              "text": "Nell’ottobre 2020 dopo il primo lockdown, nonostante le avversità non demorde e apre l’attività di InKae Tattoo a Venezia dove tuttora rimane operativo."
-            }
-          ]
-        }
-      ]
-    },
-    "worksSection": {
-      "title": "I miei lavori",
-      "images": [
-        {
-          "id": 1,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/tommy-grossi/tattoos/wrlsg1jc6pakzholk8wn.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 1"
-        },
-        {
-          "id": 2,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 2"
-        },
-        {
-          "id": 3,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 3"
-        },
-        {
-          "id": 4,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/tommy-grossi/tattoos/wrlsg1jc6pakzholk8wn.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 4"
-        },
-        {
-          "id": 5,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 5"
-        },
-        {
-          "id": 6,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 6"
-        }
-      ]
-    },
-    "sketchesSection": {
-      "title": "Sketches",
-      "images": [
-        {
-          "id": 1,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/sketches/cwykzscgf97vzkorbnb5.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 1"
-        },
-        {
-          "id": 2,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/sketches/kn7foherom7fhzabnbz1.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 2"
-        },
-        {
-          "id": 3,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/sketches/kyz5oznd3jj2nrcrhfdm.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 3"
-        },
-        {
-          "id": 4,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/nizq1guyblomfnms52dk.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 4"
-        },
-        {
-          "id": 5,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/b9dedh8qnttgmjyosiwx.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 5"
-        },
-        {
-          "id": 6,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/liuxlsbpx7epc317e52z.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 6"
-        },
-        {
-          "id": 7,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/iqsxux0yx8slurgmgzx4.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 7"
-        },
-        {
-          "id": 8,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/rkgqo8dpi9hgowywtzwh.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 8"
-        },
-        {
-          "id": 9,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/unp9mhgtfwj5ozd32ywz.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Draw by Tommy Grossi",
-          "title": "Testo che descrive il disegno 9"
-        }
-      ]
-    },
-    "piercingSection": {
-      "title": "Piercing",
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
-        "alt": "",
-        "height": "500",
-        "width": "1440",
-        "title": ""
-      },
-      "description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
-      "link": {
-        "href": "/piercing",
-        "alt": "Scopri i nostri servizi",
-        "text": "Scopri i nostri servizi"
-      }
-    },
-    "contactSection": {
-      "title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
-      "image": null,
-      "description": "",
-      "link": {
-        "href": "/contatti",
-        "alt": "Contattaci per saperne di più",
-        "text": "Contattaci per saperne di più"
-      }
-    }
-  }
+	"tommyGrossiPage": {
+		"coverSection": {
+			"title": "Tommy Grossi",
+			"subtitle": "Traditional tattoo",
+			"link": null,
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
+				"alt": "",
+				"height": "",
+				"width": "",
+				"title": ""
+			}
+		},
+		"biographySection": {
+			"title": null,
+			"image": null,
+			"mediaText": [
+				{
+					"id": 1,
+					"addClass": "",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
+						"alt": "Tommy Grossi mentre lavora",
+						"height": "270",
+						"width": "425",
+						"title": null
+					},
+					"paragraphs": [
+						{
+							"id": 1,
+							"text": "Tommaso Grossi nasce a Venezia nel 1977."
+						},
+						{
+							"id": 2,
+							"text": "Dopo aver conseguito il diploma di maestro d’arte della stampa all’istituto statale d’arte e successivamente di grafico pubblicitario inizia la carriera di tatuatore nel 2013 a Venezia e Tenerife."
+						},
+						{
+							"id": 3,
+							"text": "Da veneziano purosangue predilige soggetti a tema marinaresco in stile tradizionale “old school” con o senza colori."
+						},
+						{
+							"id": 4,
+							"text": "Nell’ottobre 2020 dopo il primo lockdown, nonostante le avversità non demorde e apre l’attività di InKae Tattoo a Venezia dove tuttora rimane operativo."
+						}
+					]
+				}
+			]
+		},
+		"worksSection": {
+			"title": "I miei lavori",
+			"images": [
+				{
+					"id": 1,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/tommy-grossi/tattoos/wrlsg1jc6pakzholk8wn.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 1"
+				},
+				{
+					"id": 2,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 2"
+				},
+				{
+					"id": 3,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 3"
+				},
+				{
+					"id": 4,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/tommy-grossi/tattoos/wrlsg1jc6pakzholk8wn.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 4"
+				},
+				{
+					"id": 5,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 5"
+				},
+				{
+					"id": 6,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 6"
+				}
+			]
+		},
+		"sketchesSection": {
+			"title": "Sketches",
+			"images": [
+				{
+					"id": 1,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/sketches/cwykzscgf97vzkorbnb5.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 1"
+				},
+				{
+					"id": 2,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/sketches/kn7foherom7fhzabnbz1.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 2"
+				},
+				{
+					"id": 3,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/sketches/kyz5oznd3jj2nrcrhfdm.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 3"
+				},
+				{
+					"id": 4,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/nizq1guyblomfnms52dk.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 4"
+				},
+				{
+					"id": 5,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/b9dedh8qnttgmjyosiwx.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 5"
+				},
+				{
+					"id": 6,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/liuxlsbpx7epc317e52z.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 6"
+				},
+				{
+					"id": 7,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/iqsxux0yx8slurgmgzx4.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 7"
+				},
+				{
+					"id": 8,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/rkgqo8dpi9hgowywtzwh.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 8"
+				},
+				{
+					"id": 9,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761153/inkaeTattooVenice/tommy-grossi/sketches/unp9mhgtfwj5ozd32ywz.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tommy Grossi",
+					"title": "Testo che descrive il disegno 9"
+				}
+			]
+		},
+		"piercingSection": {
+			"title": "Piercing",
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
+				"alt": "",
+				"height": "500",
+				"width": "1440",
+				"title": ""
+			},
+			"description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
+			"link": {
+				"href": "/piercing",
+				"alt": "Scopri i nostri servizi",
+				"text": "Scopri i nostri servizi"
+			}
+		},
+		"contactSection": {
+			"title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
+			"image": null,
+			"description": "",
+			"link": {
+				"href": "/contatti",
+				"alt": "Contattaci per saperne di più",
+				"text": "Contattaci per saperne di più"
+			}
+		}
+	}
 }
